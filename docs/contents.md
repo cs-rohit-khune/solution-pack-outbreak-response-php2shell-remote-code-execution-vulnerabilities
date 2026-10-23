@@ -9,9 +9,7 @@ The **Outbreak Response - PHP2Shell Remote Code Execution Vulnerabilities** solu
 
 | Name | Description |
 |:-------------------------|:------------------|
-| PHP2Shell Remote Code Execution Vulnerabilities | Successful exploitation could allow attackers to execute arbitrary code within the PHP application process, potentially compromising the affected server and exposing sensitive data, application files, or connected databases, depending on the process privileges and system configuration.
-
-FortiGuard Labs is monitoring the PHP2Shell vulnerabilities and related threat activity. Updates will be provided as new threat intelligence emerges and additional protections become available. Organizations are advised to apply the relevant security updates and consult the FortiGuard coverage information for the latest protection status. |
+| <p>PHP2Shell Remote Code Execution Vulnerabilities | Successful exploitation could allow attackers to execute arbitrary code within the PHP application process, potentially compromising the affected server and exposing sensitive data, application files, or connected databases, depending on the process privileges and system configuration.</p><p>FortiGuard Labs is monitoring the PHP2Shell vulnerabilities and related threat activity. Updates will be provided as new threat intelligence emerges and additional protections become available. Organizations are advised to apply the relevant security updates and consult the FortiGuard coverage information for the latest protection status.</p> |
 
 ## Threat Hunt Rules Record set
 
